@@ -1,0 +1,122 @@
+[
+    {
+    "id": 1,
+    "cpf": 111,
+    "nome": "Roberta", 
+    "sobrenome": "Ribeiro", 
+    "cidade": "São Paulo", 
+    "pais": "Brasil",
+    "imagem": "<img src='img/roberta.webp' width='200px'>",
+    "link": "https://globoplay.globo.com/v/12426126/"
+    },
+    {
+    "id": 2,
+    "cpf": 222,
+    "nome": "Tainara", 
+    "sobrenome": "Santos", 
+    "cidade": "São Paulo", 
+    "pais": "Brasil",
+    "imagem": "<img src='img/Tai.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 3,
+    "cpf": 333,
+    "nome": "Julia", 
+    "sobrenome": "Bergman", 
+    "cidade": "Munich", 
+    "pais": "Alemanha",
+    "imagem": "<img src='img/julia.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 4,
+    "cpf": 444,
+    "nome": "Thaísa", 
+    "sobrenome": "Menezes", 
+    "cidade": "Rio de Janeiro", 
+    "pais": "Brasil",
+    "imagem": "<img src='img/thaisa.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 5,
+    "cpf": 555,
+    "nome": "Nyeme", 
+    "sobrenome": "Gomes", 
+    "cidade": "São Paulo", 
+    "pais": "Brasil", 
+    "imagem": "<img src='img/nay.png' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 6,
+    "cpf": 666,
+    "nome": "Ana", 
+    "sobrenome": "Carolina", 
+    "cidade": "Minas Gerais", 
+    "pais": "Brasil", 
+    "imagem": "<img src='img/carolina.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 7,
+    "cpf": 777,
+    "nome": "Gabriela", 
+    "sobrenome": "Guimarães", 
+    "cidade": "Minas Gerais", 
+    "pais": "Brasil", 
+    "imagem": "<img src='img/gabi.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 8,
+    "cpf": 888,
+    "nome": "Rosamaria ", 
+    "sobrenome": "Montibeller", 
+    "cidade": "Santa Catarina", 
+    "pais": "Brasil", 
+    "imagem": "<img src='img/rosa.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 9,
+    "cpf": 999,
+    "nome": "Priscila  ", 
+    "sobrenome": "Daroit", 
+    "cidade": "Rio Grande do Sul", 
+    "pais": "Brasil", 
+    "imagem": "<img src='img/pri.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 10,
+    "cpf": 1010,
+    "nome": "Camila", 
+    "sobrenome": "Brait", 
+    "cidade": "Minas Gerais", 
+    "pais": "Brasil", 
+    "imagem": "<img src='img/ca.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    }, 
+    {
+    "id": 20,
+    "cpf": 2020,
+    "nome": "Lorenne", 
+    "sobrenome": "Teixeira", 
+    "cidade": "Minas Gerais", 
+    "pais": "Brasil", 
+    "imagem": "<img src='img/lo.webp' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    },
+    {
+    "id": 30,
+    "cpf": 3030,
+    "nome": "Ana", 
+    "sobrenome": "Cristina", 
+    "cidade": "Rio de Janeiro", 
+    "pais": "Brasil", 
+    "imagem": "<img src='img/cris.png' width='200px'>",
+    "link": "https://open.spotify.com/intl-pt/album/4TX968qKjmaLmCj7eWwySt"
+    } 
+]

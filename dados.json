@@ -1,0 +1,25 @@
+{
+    "nome1": "Ursinho Amarelo",
+    "price1": "R$ 29,90",
+    "image1": "<img src='img/ursinhoAmarelo.jpg' width='200px'>",
+
+    "nome2": "Ursinho Azul",
+    "price2": "R$ 29,90",
+    "image2": "<img src='img/ursinhoAzul.webp' width='200px'>",
+
+    "nome3": "Ursinho Laranja ",
+    "price3": "R$ 29,90",
+    "image3": "<img src='img/ursinhoLaranja.jpg' width='200px'>",
+
+    "nome4": "ursinho Rosa",
+    "price4": "R$ 29,90",
+    "image4": "<img src='img/ursinhoRosa.webp' width='200px'>",
+
+    "nome5": "Ursinho Verde",
+    "price5": "R$ 29,90",
+    "image5": "<img src='img/ursinhoVerde.jpg' width='200px'>",
+
+    "nome6": "Ursinnho Roxo",
+    "price6": "R$ 29,90",
+    "image6": "<img src='img/ursinhoRoxo.webp' width='200px'>"
+}

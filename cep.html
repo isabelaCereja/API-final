@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎇cep🎇</title>
+</head>
+<style>
+    body{
+        background-image: url(midia/blueeee.gif);
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+    }
+    .caixa{
+        position: absolute;
+        top: 25%;
+        left: 43%;
+    }
+    .letra{
+        font-size: 22px;
+    }
+    .borda{
+        font-size: 22px; /* Tamanho da fonte */
+        color: rgb(0, 0, 0); /* Cor do texto */
+        border: 2px solid black; /* Cor e espessura da borda */
+        padding: 20px; /* Espaçamento entre o texto e a borda */
+        background-color: rgba(167, 240, 250, 0.445);
+        
+    }
+    .titulo{
+        border-radius: 10px;
+        position: absolute;
+        top: 11%;
+        left: 44%;
+        font-size: 12px; /* Tamanho da fonte */
+        color: rgb(0, 0, 0); /* Cor do texto */
+        border: 2px solid black; /* Cor e espessura da borda */
+        padding: 20px; /* Espaçamento entre o texto e a borda */
+        background-color: rgba(36, 199, 240, 0.356);
+    }
+</style>
+
+<body>
+    <center>
+        <div class="titulo">
+            <h1>Cadastro de Usuário</h1>
+        </div>
+        <div class="caixa">
+            <form>
+           
+            <div class="borda">
+                <div class="letra">
+                    <legend>Endereço</legend>
+                    </div>
+            <br>
+            <label for="cep">CEP:    </label>
+            <input type="text" id="cep" autocomplete="off">
+            <br><br>
+            <label for="rua">Rua:   </label>
+            <input type="text" id="rua" readonly>
+            <br><br>
+            <label for="bairro">Bairro</label>
+            <input type="text" id="bairro" readonly>
+            <br><br>
+            <label for="cidade">Cidade:</label>
+            <input type="text" id="cidade" readonly>
+            <br><br>
+            <label for="estado">Estado:</label>
+            <input type="text" id="estado" readonly><br>
+            </div>
+            </form>
+            </div>
+            </div>
+        </center>
+</div>
+<script src="cep.js"></script>
+</body>
+</html>

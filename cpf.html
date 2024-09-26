@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CPF</title>
+</head>
+<style>
+    body{
+        position: absolute;
+        left: 75%;
+        top: 10%;
+        background: url(img/todas.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .quadrado{
+        background-color: rgb(185, 177, 106);
+    }
+    .borda{
+        font-size: 22px; /* Tamanho da fonte */
+        color: rgb(0, 0, 0); /* Cor do texto */
+        border: 2px solid rgb(243, 232, 232); /* Cor e espessura da borda */
+        padding: 20px; /* Espaçamento entre o texto e a borda */
+    }
+</style>
+<body>
+    <h1>Busque o CPF</h1>
+<div class="quadrado">
+    <div class="borda">
+        <div class="center">
+            <div id="imagem"></div>
+            <div id="nome"></div>
+            <div id="sobrenome"></div>
+            <div id="cidade"></div>
+            <div id="pais"></div>
+
+       </div>
+
+        <input type="number" id="valor" placeholder="Digite o CPF">
+        <div id="erro"></div>
+        <center>
+        <button style="background-color: rgb(241, 238, 186); " onclick="Buscar()">Buscar</button>
+        </center>
+    </div>
+</div>
+   
+
+    <script src="cpf.js"></script>
+    
+</body>
+</html>
